@@ -1,4 +1,4 @@
-# Project Title
+# Programming Languages
 
 Contains scripts made in python, c and java.
 
