@@ -29,8 +29,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **So Hwa Qarooni** - *Initial work* - [PurpleBooth](https://github.com/sohwaqarooni)
-
+* **So Hwa Qarooni** - *Initial work* - [So Hwa Git](https://github.com/sohwaqarooni)
+* sohwaqarooni@gmail.com
 
 ## License
 
